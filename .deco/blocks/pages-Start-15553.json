@@ -1,1 +1,14 @@
-{"name":"Home","path":"/","sections":[{"__resolveType":"site/sections/ItWorks.tsx","name":"It Works!"},{"__resolveType":"Footer"}],"__resolveType":"website/pages/Page.tsx"}
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "site/sections/ItWorks.tsx",
+      "name": "<h1>BSVR List</h1><p>List your BIGScreen VR event for the world to see 👀</p><p>Dark Mode:</p><p>NSFW:</p><p>+</p><p>×</p><h2>Create BigScreen Event</h2><p>BigScreen User Name:*</p><p>Title of the Event:*</p><p>Description:</p><p>Date of Event:*</p><p>Time of Event:*</p><p>Time Zone:</p><p>Poster Image Link:</p><p>Room Code:</p><p>NSFW:</p><p>Submit Close</p><p>Note: This site is not official, this is a fan-made site by <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 hover:underline\" href=\"https://www.akshaycodes.co\">www.akshaycodes.co</a>, feedback is appreciated!</p>"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
